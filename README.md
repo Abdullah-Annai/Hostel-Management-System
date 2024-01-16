@@ -51,7 +51,7 @@ The Hostel Management System is designed to efficiently manage student and staff
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hostel-management.git
+git clone https://github.com/AbdullahProxy/hostel-management.git
 ```
 
 2. Import the database schema from `database.sql` into your MySQL database.
@@ -65,8 +65,3 @@ git clone https://github.com/your-username/hostel-management.git
 1. Access the application through a web browser.
 
 2. Navigate through the various functionalities to manage student and staff records, handle room allocation, communicate between roommates, and view relevant information.
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
